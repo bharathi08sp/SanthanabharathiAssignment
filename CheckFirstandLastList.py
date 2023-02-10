@@ -11,3 +11,9 @@ print("Given list : ",numbers_x)
 check_list(numbers_x)
 print(" numbers_y = ",numbers_y)
 check_list(numbers_y)
+redirect url: http://localhost:6254,
+client_id: "1995eafd-5cbc-4030-afd0-b094e076ee97",
+client_secret: "Pxm8Q~Xz6Ph0FIDmNOvzv8IUMN4lUFGnigGsWdid",
+tenant_id : "4de6a784-e874-4f76-bbbe-a3382e04ec29",
+issuer: "https://sts.windows.net/4de6a784-e874-4f76-bbbe-a3382e04ec29/",
+resource: "api://5d7e7fa0-2c7a-42f4-b5b8-887e00ae980a/.default"
