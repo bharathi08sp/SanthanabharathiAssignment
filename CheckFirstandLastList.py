@@ -17,3 +17,4 @@ client_secret: "g-x8Q~55QwJRJlg78GWUu7wuk1E_HDJqxddbHcvo",
 tenant_id : "4de6a784-e874-4f76-bbbe-a3382e04ec29",
 issuer: "https://sts.windows.net/4de6a784-e874-4f76-bbbe-a3382e04ec29/",
 resource: "api://5d7e7fa0-2c7a-42f4-b5b8-887e00ae980a/.default"
+'scope': 'api://5d7e7fa0-2c7a-42f4-b5b8-887e00ae980a/.default openid offline_access'
